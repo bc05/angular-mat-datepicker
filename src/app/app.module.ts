@@ -5,7 +5,6 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialExampleModule } from '../material.module';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import {
-  DateAdapter,
   MatNativeDateModule,
   MAT_DATE_FORMATS,
   MAT_DATE_LOCALE,
